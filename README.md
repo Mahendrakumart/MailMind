@@ -1,4 +1,5 @@
-MailMind
+MailMind AI
+
 📝 Overview
 
 MailMind is an intelligent email automation system designed to handle business enquiries efficiently. It reads incoming emails, understands the content using a local Large Language Model powered by Ollama, and generates professional responses automatically. The system also maintains a backend SQL database to store customer interactions for tracking and analysis.
