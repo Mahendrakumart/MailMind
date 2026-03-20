@@ -1,0 +1,202 @@
+id,name,role,company,domain,location,email,linkedin,phone,company_size,revenue_range,communication_preference,engagement_score,decision_power,timezone,last_engagement_date,preferred_contact_time
+1,Sophia Davis,Founder,SmartEdge Solutions,IoT,Berlin,17bau070@gmail.com,https://linkedin.com/in/sophiadavis,18030978280,51-200,$50M-$100M,Call,77,Medium,IST,05-10-2025,Evening
+2,Harper Thomas,CEO,TechNova Solutions,AI,Bangalore,17bau070@gmail.com,https://linkedin.com/in/harperthomas,12081586158,500+,$100M+,LinkedIn,60,Medium,SGT,10-11-2025,Morning
+3,Elijah Martinez,CMO,DataSphere Corp,IoT,Dubai,17bau070@gmail.com,https://linkedin.com/in/elijahmartinez,10975131009,01-Oct,$10M-$50M,Call,66,High,SGT,04-09-2025,Afternoon
+4,Charlotte Miller,CTO,Nexlify Corp,Healthcare,Amsterdam,17bau070@gmail.com,https://linkedin.com/in/charlottemiller,13433949741,201-500,$10M-$50M,Email,59,Low,IST,04-01-2026,Evening
+5,Elijah Anderson,Head of IoT,DataSphere Corp,SaaS,Dubai,17bau070@gmail.com,https://linkedin.com/in/elijahanderson,13026712447,51-200,$100M+,Email,92,Low,CET,23-11-2025,Evening
+6,Emma Martin,CMO,InnoWave Inc,Cloud,Singapore,17bau070@gmail.com,https://linkedin.com/in/emmamartin,10818577048,500+,$50M-$100M,Email,91,High,CET,12-08-2025,Afternoon
+7,Mia Smith,CMO,InnoWave Inc,AI,Dubai,17bau070@gmail.com,https://linkedin.com/in/miasmith,11754000222,500+,$100K-$1M,LinkedIn,70,Medium,SGT,27-10-2025,Evening
+8,Noah Smith,CIO,VisionTech Corp,IoT,Amsterdam,17bau070@gmail.com,https://linkedin.com/in/noahsmith,18734854219,Nov-50,$10M-$50M,LinkedIn,79,High,AEST,17-09-2025,Afternoon
+9,Mason Gonzalez,CMO,FutureSoft Solutions,SaaS,Amsterdam,17bau070@gmail.com,https://linkedin.com/in/masongonzalez,11640175181,201-500,$1M-$10M,Email,76,High,CET,28-10-2025,Evening
+10,Oliver Williams,CIO,DataSphere Solutions,Fintech,Bangalore,17bau070@gmail.com,https://linkedin.com/in/oliverwilliams,13263276283,201-500,$50M-$100M,LinkedIn,50,High,GMT,11-09-2025,Evening
+11,Amelia Hernandez,Director,InnoWave Solutions,SaaS,Bangalore,17bau070@gmail.com,https://linkedin.com/in/ameliahernandez,11615593840,51-200,$10M-$50M,LinkedIn,53,Medium,SGT,20-06-2025,Evening
+12,Lucas Smith,Founder,TechNova Ltd,Robotics,London,17bau070@gmail.com,https://linkedin.com/in/lucassmith,11475034224,51-200,$1M-$10M,LinkedIn,77,Low,PST,02-10-2025,Evening
+13,Elijah Lopez,VP Engineering,VisionTech Corp,Healthcare,Amsterdam,17bau070@gmail.com,https://linkedin.com/in/elijahlopez,13925917946,500+,$50M-$100M,LinkedIn,82,High,AEST,10-12-2025,Afternoon
+14,William Johnson,CIO,InnoWave Solutions,Robotics,Amsterdam,17bau070@gmail.com,https://linkedin.com/in/williamjohnson,11767773671,500+,$100K-$1M,Email,65,High,CET,26-07-2025,Evening
+15,Isabella Martinez,Head of IoT,TechNova Solutions,Robotics,San Francisco,17bau070@gmail.com,https://linkedin.com/in/isabellamartinez,13581016980,500+,$10M-$50M,LinkedIn,50,Low,GMT,08-01-2026,Afternoon
+16,Sophia Wilson,Head of AI,DataSphere Corp,Ecommerce,Amsterdam,17bau070@gmail.com,https://linkedin.com/in/sophiawilson,17981948691,01-Oct,$50M-$100M,Email,89,Medium,GMT,13-11-2025,Evening
+17,Benjamin Lopez,Director,CloudCore Corp,IoT,London,17bau070@gmail.com,https://linkedin.com/in/benjaminlopez,19039386606,01-Oct,$1M-$10M,Email,96,Medium,GMT,27-09-2025,Morning
+18,Evelyn Smith,Product Manager,FutureSoft Corp,Cloud,Bangalore,17bau070@gmail.com,https://linkedin.com/in/evelynsmith,10407350358,201-500,$100K-$1M,Email,92,High,EST,04-06-2025,Evening
+19,Mia Davis,CEO,FutureSoft Inc,Robotics,Berlin,17bau070@gmail.com,https://linkedin.com/in/miadavis,11543284700,500+,$100M+,LinkedIn,79,Low,AEST,14-10-2025,Afternoon
+20,James Lopez,Head of AI,BrightAI Ltd,Fintech,Bangalore,17bau070@gmail.com,https://linkedin.com/in/jameslopez,13526466496,51-200,$100K-$1M,LinkedIn,96,Low,SGT,18-11-2025,Morning
+21,James Miller,CIO,SmartEdge Corp,Healthcare,Berlin,17bau070@gmail.com,https://linkedin.com/in/jamesmiller,17072264069,01-Oct,$50M-$100M,Call,67,Low,PST,08-06-2025,Afternoon
+22,Oliver Miller,CEO,TechNova Ltd,AI,Toronto,17bau070@gmail.com,https://linkedin.com/in/olivermiller,16375294076,201-500,$100M+,Email,87,Medium,IST,08-04-2025,Morning
+23,Harper Smith,Director,InnoWave Ltd,Cloud,Bangalore,17bau070@gmail.com,https://linkedin.com/in/harpersmith,10099433174,01-Oct,$50M-$100M,LinkedIn,61,High,CET,13-09-2025,Afternoon
+24,Harper Jackson,Head of IoT,BrightAI Inc,Cybersecurity,Toronto,17bau070@gmail.com,https://linkedin.com/in/harperjackson,13901351051,01-Oct,$10M-$50M,Email,95,Low,PST,17-11-2025,Morning
+25,Liam Thomas,CEO,NextGen Systems Inc,Fintech,San Francisco,17bau070@gmail.com,https://linkedin.com/in/liamthomas,18437877915,201-500,$10M-$50M,LinkedIn,67,High,EST,16-04-2025,Evening
+26,Mia Martin,VP Engineering,FutureSoft Solutions,Cloud,Toronto,17bau070@gmail.com,https://linkedin.com/in/miamartin,14954526350,201-500,$50M-$100M,Call,84,Medium,SGT,01-05-2025,Evening
+27,Elijah Brown,CEO,VisionTech Corp,Ecommerce,Amsterdam,17bau070@gmail.com,https://linkedin.com/in/elijahbrown,12463422861,Nov-50,$50M-$100M,Email,83,Low,CET,27-10-2025,Morning
+28,Isabella Martinez,VP Engineering,TechNova Inc,Ecommerce,Dubai,17bau070@gmail.com,https://linkedin.com/in/isabellamartinez,18336586582,Nov-50,$1M-$10M,LinkedIn,86,Low,PST,15-11-2025,Morning
+29,Benjamin Rodriguez,VP Engineering,InnoWave Solutions,Cloud,Singapore,17bau070@gmail.com,https://linkedin.com/in/benjaminrodriguez,11196576063,01-Oct,$50M-$100M,Call,81,Medium,AEST,15-09-2025,Evening
+30,Evelyn Rodriguez,Director,CloudCore Ltd,SaaS,Berlin,17bau070@gmail.com,https://linkedin.com/in/evelynrodriguez,17863259797,Nov-50,$100K-$1M,LinkedIn,93,High,IST,09-09-2025,Morning
+31,Emma Moore,Head of IoT,FutureSoft Corp,Cybersecurity,Amsterdam,17bau070@gmail.com,https://linkedin.com/in/emmamoore,10246491892,201-500,$100M+,Email,65,Low,IST,03-05-2025,Evening
+32,Mason Taylor,Product Manager,FutureSoft Ltd,Fintech,Sydney,17bau070@gmail.com,https://linkedin.com/in/masontaylor,14630233512,01-Oct,$100K-$1M,Email,68,Medium,GMT,04-06-2025,Evening
+33,Benjamin Moore,CMO,Nexlify Corp,Healthcare,Berlin,17bau070@gmail.com,https://linkedin.com/in/benjaminmoore,15266957881,500+,$100M+,LinkedIn,98,Low,SGT,16-09-2025,Morning
+34,Charlotte Taylor,VP Engineering,DataSphere Ltd,Fintech,San Francisco,17bau070@gmail.com,https://linkedin.com/in/charlottetaylor,12531459348,500+,$1M-$10M,LinkedIn,96,High,AEST,04-04-2025,Morning
+35,Noah Gonzalez,CEO,TechNova Solutions,EdTech,New York,17bau070@gmail.com,https://linkedin.com/in/noahgonzalez,14833397032,51-200,$50M-$100M,LinkedIn,82,Low,PST,17-01-2026,Afternoon
+36,Amelia Wilson,Product Manager,TechNova Inc,Cybersecurity,Toronto,17bau070@gmail.com,https://linkedin.com/in/ameliawilson,11424041982,201-500,$50M-$100M,LinkedIn,77,High,CET,27-12-2025,Morning
+37,Mason Johnson,Product Manager,SmartEdge Solutions,Cloud,Amsterdam,17bau070@gmail.com,https://linkedin.com/in/masonjohnson,14851745505,51-200,$1M-$10M,Call,92,Low,AEST,11-11-2025,Morning
+38,John Hernandez,CMO,SmartEdge Ltd,Robotics,Singapore,17bau070@gmail.com,https://linkedin.com/in/johnhernandez,17609189309,Nov-50,$1M-$10M,LinkedIn,82,High,SGT,07-12-2025,Afternoon
+39,Emma Hernandez,Product Manager,CloudCore Solutions,Healthcare,Toronto,17bau070@gmail.com,https://linkedin.com/in/emmahernandez,19376865153,01-Oct,$100K-$1M,LinkedIn,68,Low,AEST,31-03-2025,Evening
+40,Ava Miller,Head of AI,VisionTech Inc,Fintech,Berlin,17bau070@gmail.com,https://linkedin.com/in/avamiller,10902329850,Nov-50,$100M+,LinkedIn,73,Medium,GMT,15-11-2025,Morning
+41,Harper Hernandez,VP Engineering,NextGen Systems Solutions,Cybersecurity,Amsterdam,17bau070@gmail.com,https://linkedin.com/in/harperhernandez,15818348906,201-500,$100K-$1M,Email,71,High,SGT,03-11-2025,Afternoon
+42,Charlotte Davis,VP Engineering,VisionTech Ltd,Cloud,San Francisco,17bau070@gmail.com,https://linkedin.com/in/charlottedavis,18327124056,01-Oct,$10M-$50M,Email,80,High,EST,27-11-2025,Morning
+43,John Thomas,CMO,CloudCore Solutions,Healthcare,Toronto,17bau070@gmail.com,https://linkedin.com/in/johnthomas,10726153621,201-500,$100M+,Email,58,High,AEST,15-10-2025,Afternoon
+44,Sophia Gonzalez,Head of IoT,InnoWave Corp,Healthcare,London,17bau070@gmail.com,https://linkedin.com/in/sophiagonzalez,15283064900,51-200,$100M+,Call,98,High,GMT,05-01-2026,Evening
+45,Amelia Lopez,Head of AI,FutureSoft Solutions,Cloud,San Francisco,17bau070@gmail.com,https://linkedin.com/in/amelialopez,16330182135,01-Oct,$50M-$100M,Email,85,Low,CET,13-08-2025,Morning
+46,John Garcia,CMO,NextGen Systems Inc,Cloud,London,17bau070@gmail.com,https://linkedin.com/in/johngarcia,15537809295,51-200,$100K-$1M,LinkedIn,74,High,AEST,16-10-2025,Evening
+47,Ava Miller,CIO,SmartEdge Solutions,Ecommerce,Bangalore,17bau070@gmail.com,https://linkedin.com/in/avamiller,11505105188,Nov-50,$10M-$50M,Call,81,Low,SGT,10-11-2025,Afternoon
+48,Emma Smith,CTO,NextGen Systems Inc,SaaS,Bangalore,17bau070@gmail.com,https://linkedin.com/in/emmasmith,16286631450,500+,$10M-$50M,Call,57,Medium,IST,25-05-2025,Morning
+49,Mason Rodriguez,VP Engineering,BrightAI Corp,Healthcare,Dubai,17bau070@gmail.com,https://linkedin.com/in/masonrodriguez,15802876654,201-500,$1M-$10M,Call,62,Low,AEST,10-06-2025,Morning
+50,Oliver Lopez,Director,Nexlify Corp,Healthcare,Bangalore,17bau070@gmail.com,https://linkedin.com/in/oliverlopez,17495174706,51-200,$50M-$100M,Email,50,Low,CET,15-07-2025,Morning
+51,Mason Johnson,CTO,Nexlify Corp,Healthcare,San Francisco,17bau070@gmail.com,https://linkedin.com/in/masonjohnson,11519400216,201-500,$50M-$100M,Call,59,Low,CET,01-06-2025,Morning
+52,Lucas Garcia,Head of IoT,FutureSoft Solutions,Robotics,San Francisco,17bau070@gmail.com,https://linkedin.com/in/lucasgarcia,17361167063,51-200,$1M-$10M,LinkedIn,63,High,CET,04-08-2025,Evening
+53,Elijah Brown,VP Engineering,FutureSoft Solutions,Robotics,Bangalore,17bau070@gmail.com,https://linkedin.com/in/elijahbrown,13564264388,51-200,$10M-$50M,Email,100,Medium,EST,31-03-2025,Morning
+54,James Rodriguez,Product Manager,InnoWave Ltd,EdTech,Toronto,17bau070@gmail.com,https://linkedin.com/in/jamesrodriguez,15122704089,500+,$100M+,Call,86,High,PST,11-03-2025,Morning
+55,Lucas Hernandez,VP Engineering,Nexlify Inc,Healthcare,New York,17bau070@gmail.com,https://linkedin.com/in/lucashernandez,18802006777,51-200,$100M+,Email,80,High,EST,26-04-2025,Evening
+56,Evelyn Williams,VP Engineering,VisionTech Solutions,Robotics,Amsterdam,17bau070@gmail.com,https://linkedin.com/in/evelynwilliams,15206087056,01-Oct,$50M-$100M,Call,99,High,CET,09-01-2026,Evening
+57,Ava Jackson,Product Manager,SmartEdge Corp,Fintech,New York,17bau070@gmail.com,https://linkedin.com/in/avajackson,10847963964,Nov-50,$100K-$1M,Call,73,Medium,CET,20-08-2025,Evening
+58,John Thomas,VP Engineering,InnoWave Solutions,EdTech,Toronto,17bau070@gmail.com,https://linkedin.com/in/johnthomas,14413863478,Nov-50,$50M-$100M,LinkedIn,78,Low,SGT,11-04-2025,Afternoon
+59,Sophia Wilson,Product Manager,Nexlify Solutions,AI,Sydney,17bau070@gmail.com,https://linkedin.com/in/sophiawilson,17659468451,Nov-50,$10M-$50M,Call,57,Medium,EST,07-02-2026,Morning
+60,James Williams,VP Engineering,TechNova Corp,IoT,Sydney,17bau070@gmail.com,https://linkedin.com/in/jameswilliams,16277620528,201-500,$10M-$50M,Call,99,Low,PST,18-06-2025,Afternoon
+61,Isabella Rodriguez,CMO,BrightAI Ltd,Cloud,Amsterdam,17bau070@gmail.com,https://linkedin.com/in/isabellarodriguez,11565049436,01-Oct,$50M-$100M,LinkedIn,70,High,SGT,26-09-2025,Morning
+62,Evelyn Jackson,CIO,DataSphere Corp,EdTech,Bangalore,17bau070@gmail.com,https://linkedin.com/in/evelynjackson,17426781807,Nov-50,$1M-$10M,Call,61,Low,IST,22-01-2026,Afternoon
+63,Mason Martin,CTO,Nexlify Corp,IoT,Toronto,17bau070@gmail.com,https://linkedin.com/in/masonmartin,17891677840,201-500,$100M+,Call,68,Medium,IST,18-11-2025,Evening
+64,Isabella Thomas,CTO,VisionTech Ltd,AI,San Francisco,17bau070@gmail.com,https://linkedin.com/in/isabellathomas,18262635616,500+,$100K-$1M,Call,82,High,CET,17-02-2025,Morning
+65,Emma Davis,CTO,NextGen Systems Ltd,Robotics,Toronto,17bau070@gmail.com,https://linkedin.com/in/emmadavis,13220582927,Nov-50,$50M-$100M,Email,53,Medium,GMT,03-07-2025,Evening
+66,Lucas Davis,Head of AI,CloudCore Inc,EdTech,Bangalore,17bau070@gmail.com,https://linkedin.com/in/lucasdavis,10250587305,51-200,$100M+,Email,66,Low,IST,29-08-2025,Morning
+67,Mia Moore,CMO,Nexlify Solutions,Robotics,London,17bau070@gmail.com,https://linkedin.com/in/miamoore,16923986434,01-Oct,$50M-$100M,Email,66,Low,IST,27-12-2025,Evening
+68,Sophia Taylor,Head of AI,NextGen Systems Inc,Healthcare,Berlin,17bau070@gmail.com,https://linkedin.com/in/sophiataylor,13068718390,Nov-50,$1M-$10M,LinkedIn,82,High,AEST,08-02-2026,Morning
+69,Olivia Martin,VP Engineering,SmartEdge Corp,SaaS,Berlin,17bau070@gmail.com,https://linkedin.com/in/oliviamartin,10468306670,01-Oct,$100K-$1M,Call,77,Low,PST,18-01-2026,Morning
+70,Charlotte Wilson,Head of AI,FutureSoft Inc,EdTech,New York,17bau070@gmail.com,https://linkedin.com/in/charlottewilson,12744821033,201-500,$10M-$50M,Call,62,High,IST,17-05-2025,Evening
+71,Emma Jones,CIO,NextGen Systems Solutions,Cybersecurity,Bangalore,17bau070@gmail.com,https://linkedin.com/in/emmajones,12686702421,500+,$100M+,LinkedIn,78,Medium,EST,22-08-2025,Afternoon
+72,Oliver Wilson,VP Engineering,FutureSoft Inc,SaaS,Toronto,17bau070@gmail.com,https://linkedin.com/in/oliverwilson,15277655378,01-Oct,$1M-$10M,LinkedIn,63,Medium,EST,17-04-2025,Morning
+73,Harper Brown,CMO,CloudCore Inc,Ecommerce,Singapore,17bau070@gmail.com,https://linkedin.com/in/harperbrown,16967406641,Nov-50,$10M-$50M,Call,61,Low,GMT,09-06-2025,Evening
+74,Mia Anderson,Director,FutureSoft Inc,Cybersecurity,San Francisco,17bau070@gmail.com,https://linkedin.com/in/miaanderson,12893069645,01-Oct,$50M-$100M,LinkedIn,66,Low,SGT,26-04-2025,Morning
+75,Harper Davis,CMO,TechNova Ltd,AI,Amsterdam,17bau070@gmail.com,https://linkedin.com/in/harperdavis,17369225663,Nov-50,$10M-$50M,Call,64,Low,EST,27-05-2025,Morning
+76,Olivia Rodriguez,VP Engineering,BrightAI Solutions,Cybersecurity,London,17bau070@gmail.com,https://linkedin.com/in/oliviarodriguez,13781199926,01-Oct,$100M+,Email,53,Low,EST,14-07-2025,Morning
+77,Charlotte Jackson,CTO,Nexlify Inc,Ecommerce,Sydney,17bau070@gmail.com,https://linkedin.com/in/charlottejackson,14102692433,01-Oct,$10M-$50M,Call,76,Low,SGT,09-01-2026,Evening
+78,Mia Martinez,Director,VisionTech Solutions,Ecommerce,San Francisco,17bau070@gmail.com,https://linkedin.com/in/miamartinez,15307247389,01-Oct,$50M-$100M,Email,73,High,SGT,04-09-2025,Afternoon
+79,Amelia Davis,VP Engineering,FutureSoft Solutions,SaaS,New York,17bau070@gmail.com,https://linkedin.com/in/ameliadavis,14205377052,500+,$100M+,Email,72,Medium,AEST,02-07-2025,Afternoon
+80,Mia Johnson,Product Manager,SmartEdge Corp,Cybersecurity,New York,17bau070@gmail.com,https://linkedin.com/in/miajohnson,10181273393,500+,$10M-$50M,LinkedIn,67,High,GMT,13-08-2025,Evening
+81,Oliver Jones,CMO,CloudCore Ltd,Cybersecurity,Toronto,17bau070@gmail.com,https://linkedin.com/in/oliverjones,19177729276,500+,$50M-$100M,LinkedIn,68,Medium,GMT,01-06-2025,Evening
+82,Emma Gonzalez,CEO,Nexlify Ltd,Cybersecurity,Sydney,17bau070@gmail.com,https://linkedin.com/in/emmagonzalez,14429555817,500+,$100M+,Email,65,High,SGT,26-07-2025,Morning
+83,William Martin,CIO,TechNova Corp,EdTech,San Francisco,17bau070@gmail.com,https://linkedin.com/in/williammartin,10928569776,01-Oct,$100M+,Call,82,Medium,PST,08-02-2026,Afternoon
+84,James Moore,CTO,BrightAI Inc,SaaS,Toronto,17bau070@gmail.com,https://linkedin.com/in/jamesmoore,19082210107,01-Oct,$1M-$10M,Email,85,Medium,SGT,05-03-2025,Morning
+85,James Lopez,VP Engineering,DataSphere Inc,AI,Bangalore,17bau070@gmail.com,https://linkedin.com/in/jameslopez,17574847079,01-Oct,$100M+,Call,72,Low,CET,08-08-2025,Afternoon
+86,Elijah Jones,CMO,CloudCore Inc,Robotics,Sydney,17bau070@gmail.com,https://linkedin.com/in/elijahjones,17189633994,51-200,$1M-$10M,LinkedIn,83,High,SGT,13-01-2026,Evening
+87,Liam Rodriguez,CIO,DataSphere Solutions,AI,San Francisco,17bau070@gmail.com,https://linkedin.com/in/liamrodriguez,12959168930,500+,$50M-$100M,LinkedIn,68,High,CET,04-12-2025,Morning
+88,Mia Brown,CIO,VisionTech Solutions,AI,Dubai,17bau070@gmail.com,https://linkedin.com/in/miabrown,18188797638,201-500,$100M+,Email,66,Medium,EST,12-08-2025,Morning
+89,William Lopez,Head of IoT,DataSphere Ltd,Ecommerce,New York,17bau070@gmail.com,https://linkedin.com/in/williamlopez,19288920642,01-Oct,$100M+,Call,91,Medium,GMT,02-07-2025,Evening
+90,James Wilson,Head of AI,TechNova Ltd,Fintech,Berlin,17bau070@gmail.com,https://linkedin.com/in/jameswilson,12229114293,201-500,$50M-$100M,LinkedIn,86,High,EST,23-12-2025,Afternoon
+91,Benjamin Lopez,Director,TechNova Solutions,AI,London,17bau070@gmail.com,https://linkedin.com/in/benjaminlopez,16404596756,201-500,$1M-$10M,LinkedIn,98,Low,AEST,29-05-2025,Afternoon
+92,Harper Garcia,Product Manager,VisionTech Corp,Robotics,Singapore,17bau070@gmail.com,https://linkedin.com/in/harpergarcia,14048948588,Nov-50,$50M-$100M,Email,86,Medium,PST,01-09-2025,Afternoon
+93,William Anderson,Product Manager,DataSphere Solutions,SaaS,Amsterdam,17bau070@gmail.com,https://linkedin.com/in/williamanderson,15902129756,01-Oct,$100K-$1M,Email,57,Low,SGT,22-11-2025,Afternoon
+94,Charlotte Davis,Product Manager,Nexlify Ltd,SaaS,San Francisco,17bau070@gmail.com,https://linkedin.com/in/charlottedavis,17872536681,51-200,$100K-$1M,LinkedIn,54,Low,CET,28-11-2025,Morning
+95,Amelia Rodriguez,CIO,DataSphere Inc,EdTech,San Francisco,17bau070@gmail.com,https://linkedin.com/in/ameliarodriguez,10979205960,01-Oct,$100K-$1M,Email,58,Low,EST,20-07-2025,Evening
+96,James Smith,Head of IoT,SmartEdge Ltd,Robotics,New York,17bau070@gmail.com,https://linkedin.com/in/jamessmith,13844283822,201-500,$10M-$50M,Email,54,Medium,IST,19-02-2025,Morning
+97,Lucas Smith,Head of AI,SmartEdge Ltd,Cybersecurity,Bangalore,17bau070@gmail.com,https://linkedin.com/in/lucassmith,11233909088,201-500,$1M-$10M,Email,69,High,GMT,21-06-2025,Afternoon
+98,Noah Martinez,Founder,FutureSoft Solutions,SaaS,Amsterdam,17bau070@gmail.com,https://linkedin.com/in/noahmartinez,12702149202,01-Oct,$100K-$1M,Email,74,Medium,EST,20-02-2025,Evening
+99,Ava Brown,CIO,InnoWave Solutions,Cloud,Bangalore,17bau070@gmail.com,https://linkedin.com/in/avabrown,10267827052,201-500,$50M-$100M,Call,50,High,IST,02-09-2025,Afternoon
+100,Sophia Brown,Head of AI,CloudCore Corp,AI,Sydney,17bau070@gmail.com,https://linkedin.com/in/sophiabrown,13251915841,01-Oct,$100K-$1M,LinkedIn,89,High,IST,27-11-2025,Morning
+101,James Martinez,VP Engineering,Nexlify Inc,Fintech,Singapore,17bau070@gmail.com,https://linkedin.com/in/jamesmartinez,15800046942,01-Oct,$10M-$50M,Call,64,Medium,SGT,01-12-2025,Evening
+102,Ava Martin,VP Engineering,BrightAI Solutions,Fintech,New York,17bau070@gmail.com,https://linkedin.com/in/avamartin,11242554845,01-Oct,$100K-$1M,Email,97,Medium,AEST,19-02-2025,Afternoon
+103,Amelia Hernandez,Product Manager,SmartEdge Ltd,Cybersecurity,Dubai,17bau070@gmail.com,https://linkedin.com/in/ameliahernandez,18011160377,01-Oct,$50M-$100M,LinkedIn,95,High,EST,07-12-2025,Evening
+104,Isabella Taylor,CIO,VisionTech Solutions,EdTech,Singapore,17bau070@gmail.com,https://linkedin.com/in/isabellataylor,18400235287,500+,$50M-$100M,LinkedIn,56,Medium,IST,03-06-2025,Afternoon
+105,Olivia Martin,CTO,DataSphere Inc,Healthcare,Dubai,17bau070@gmail.com,https://linkedin.com/in/oliviamartin,17600308345,01-Oct,$10M-$50M,Call,79,Medium,CET,07-10-2025,Evening
+106,Mason Martinez,CIO,NextGen Systems Ltd,Robotics,Bangalore,17bau070@gmail.com,https://linkedin.com/in/masonmartinez,14393746769,51-200,$100K-$1M,Email,53,Medium,PST,18-12-2025,Morning
+107,Charlotte Moore,CEO,NextGen Systems Ltd,AI,New York,17bau070@gmail.com,https://linkedin.com/in/charlottemoore,13388823834,51-200,$1M-$10M,LinkedIn,54,Medium,IST,17-03-2025,Morning
+108,Oliver Gonzalez,Founder,CloudCore Corp,IoT,London,17bau070@gmail.com,https://linkedin.com/in/olivergonzalez,15782272025,500+,$10M-$50M,Call,52,High,CET,17-07-2025,Afternoon
+109,William Lopez,Product Manager,BrightAI Solutions,SaaS,San Francisco,17bau070@gmail.com,https://linkedin.com/in/williamlopez,10494804570,51-200,$100M+,Call,75,High,PST,25-10-2025,Morning
+110,Isabella Gonzalez,VP Engineering,FutureSoft Corp,SaaS,Berlin,17bau070@gmail.com,https://linkedin.com/in/isabellagonzalez,16341519366,51-200,$10M-$50M,Call,99,Low,CET,07-08-2025,Evening
+111,Mia Taylor,Director,VisionTech Inc,Fintech,San Francisco,17bau070@gmail.com,https://linkedin.com/in/miataylor,14231830032,500+,$100K-$1M,Call,76,High,AEST,11-01-2026,Morning
+112,Emma Jackson,CMO,BrightAI Inc,SaaS,Sydney,17bau070@gmail.com,https://linkedin.com/in/emmajackson,13826838536,01-Oct,$100M+,LinkedIn,65,Low,IST,08-09-2025,Afternoon
+113,Emma Anderson,Founder,VisionTech Solutions,SaaS,San Francisco,17bau070@gmail.com,https://linkedin.com/in/emmaanderson,16333581001,500+,$100M+,Call,97,High,PST,03-10-2025,Afternoon
+114,Charlotte Brown,CEO,VisionTech Corp,Fintech,Berlin,17bau070@gmail.com,https://linkedin.com/in/charlottebrown,16407393506,500+,$100M+,Call,66,High,EST,23-03-2025,Afternoon
+115,Mason Hernandez,CTO,Nexlify Inc,EdTech,New York,17bau070@gmail.com,https://linkedin.com/in/masonhernandez,11106938564,01-Oct,$1M-$10M,LinkedIn,50,Medium,AEST,21-09-2025,Morning
+116,Amelia Johnson,Head of IoT,CloudCore Inc,Healthcare,Amsterdam,17bau070@gmail.com,https://linkedin.com/in/ameliajohnson,10258301039,01-Oct,$10M-$50M,Email,69,High,EST,12-01-2026,Evening
+117,Olivia Jackson,Founder,NextGen Systems Solutions,Cybersecurity,Sydney,17bau070@gmail.com,https://linkedin.com/in/oliviajackson,12223487772,51-200,$100K-$1M,LinkedIn,79,Medium,IST,05-09-2025,Evening
+118,John Wilson,CTO,VisionTech Ltd,Ecommerce,Berlin,17bau070@gmail.com,https://linkedin.com/in/johnwilson,19563614127,201-500,$100K-$1M,LinkedIn,70,High,AEST,13-07-2025,Evening
+119,Mason Thomas,Founder,TechNova Solutions,Cloud,Amsterdam,17bau070@gmail.com,https://linkedin.com/in/masonthomas,17600382846,500+,$100M+,Call,58,High,PST,20-05-2025,Evening
+120,James Williams,CTO,SmartEdge Ltd,IoT,Sydney,17bau070@gmail.com,https://linkedin.com/in/jameswilliams,19085305359,500+,$10M-$50M,Call,61,Low,PST,29-08-2025,Afternoon
+121,Sophia Johnson,Head of IoT,InnoWave Solutions,SaaS,Berlin,17bau070@gmail.com,https://linkedin.com/in/sophiajohnson,10598842665,Nov-50,$50M-$100M,LinkedIn,64,Low,EST,05-01-2026,Afternoon
+122,Isabella Jackson,VP Engineering,SmartEdge Inc,Healthcare,Amsterdam,17bau070@gmail.com,https://linkedin.com/in/isabellajackson,11261722888,01-Oct,$1M-$10M,LinkedIn,82,Medium,AEST,28-01-2026,Afternoon
+123,Ava Williams,Director,TechNova Solutions,SaaS,Berlin,17bau070@gmail.com,https://linkedin.com/in/avawilliams,10719317510,201-500,$10M-$50M,Email,88,Low,EST,25-01-2026,Afternoon
+124,William Taylor,CEO,SmartEdge Corp,EdTech,Amsterdam,17bau070@gmail.com,https://linkedin.com/in/williamtaylor,12166039331,01-Oct,$50M-$100M,Email,68,Medium,AEST,10-07-2025,Morning
+125,Lucas Martin,Product Manager,Nexlify Solutions,IoT,London,17bau070@gmail.com,https://linkedin.com/in/lucasmartin,10779962387,500+,$50M-$100M,Call,94,High,EST,22-11-2025,Morning
+126,Mason Garcia,Founder,InnoWave Ltd,Robotics,London,17bau070@gmail.com,https://linkedin.com/in/masongarcia,17728479408,01-Oct,$10M-$50M,Call,61,High,GMT,11-01-2026,Evening
+127,Isabella Davis,CEO,TechNova Corp,Cybersecurity,Dubai,17bau070@gmail.com,https://linkedin.com/in/isabelladavis,11632584653,51-200,$100K-$1M,Call,92,Low,AEST,14-03-2025,Evening
+128,Charlotte Davis,Head of IoT,BrightAI Ltd,Cloud,Sydney,17bau070@gmail.com,https://linkedin.com/in/charlottedavis,17078859025,01-Oct,$10M-$50M,LinkedIn,67,Medium,AEST,09-11-2025,Afternoon
+129,Elijah Anderson,Head of AI,CloudCore Corp,Cybersecurity,New York,17bau070@gmail.com,https://linkedin.com/in/elijahanderson,19914973837,500+,$10M-$50M,Email,93,High,PST,02-03-2025,Afternoon
+130,Isabella Thomas,Product Manager,SmartEdge Solutions,IoT,Sydney,17bau070@gmail.com,https://linkedin.com/in/isabellathomas,12743525326,51-200,$1M-$10M,Call,51,Low,GMT,04-04-2025,Evening
+131,Mason Martinez,Head of AI,Nexlify Solutions,Cloud,Amsterdam,17bau070@gmail.com,https://linkedin.com/in/masonmartinez,19838388496,500+,$50M-$100M,LinkedIn,57,Low,SGT,13-08-2025,Afternoon
+132,Sophia Martin,Founder,CloudCore Solutions,IoT,Bangalore,17bau070@gmail.com,https://linkedin.com/in/sophiamartin,18172948605,Nov-50,$100K-$1M,Email,70,Medium,EST,31-03-2025,Morning
+133,Isabella Thomas,Head of IoT,TechNova Corp,Fintech,Bangalore,17bau070@gmail.com,https://linkedin.com/in/isabellathomas,16841488000,Nov-50,$100M+,Email,76,Medium,EST,23-10-2025,Evening
+134,Isabella Davis,Head of IoT,TechNova Inc,Robotics,Dubai,17bau070@gmail.com,https://linkedin.com/in/isabelladavis,14265075292,500+,$1M-$10M,Email,57,Low,EST,28-09-2025,Afternoon
+135,Emma Rodriguez,CEO,DataSphere Inc,Healthcare,Berlin,17bau070@gmail.com,https://linkedin.com/in/emmarodriguez,10306206547,01-Oct,$10M-$50M,LinkedIn,69,Low,IST,27-08-2025,Afternoon
+136,Benjamin Thomas,Head of IoT,FutureSoft Corp,Ecommerce,Bangalore,17bau070@gmail.com,https://linkedin.com/in/benjaminthomas,13817781736,Nov-50,$50M-$100M,Call,57,High,PST,28-10-2025,Afternoon
+137,William Johnson,Product Manager,BrightAI Corp,Cybersecurity,Bangalore,17bau070@gmail.com,https://linkedin.com/in/williamjohnson,18657868815,01-Oct,$1M-$10M,Email,63,Medium,GMT,11-02-2026,Morning
+138,Amelia Davis,Head of AI,FutureSoft Inc,Healthcare,Sydney,17bau070@gmail.com,https://linkedin.com/in/ameliadavis,11048453526,01-Oct,$1M-$10M,Call,79,High,EST,28-04-2025,Afternoon
+139,Emma Davis,Head of AI,TechNova Solutions,IoT,Berlin,17bau070@gmail.com,https://linkedin.com/in/emmadavis,16512008797,Nov-50,$100M+,Call,63,Medium,GMT,17-12-2025,Evening
+140,Elijah Miller,VP Engineering,NextGen Systems Ltd,Cloud,Toronto,17bau070@gmail.com,https://linkedin.com/in/elijahmiller,13218035964,51-200,$50M-$100M,LinkedIn,70,High,EST,05-07-2025,Evening
+141,Emma Hernandez,CTO,InnoWave Corp,Fintech,Berlin,17bau070@gmail.com,https://linkedin.com/in/emmahernandez,12523476339,201-500,$1M-$10M,LinkedIn,91,Low,PST,16-09-2025,Evening
+142,John Martin,Product Manager,CloudCore Ltd,SaaS,London,17bau070@gmail.com,https://linkedin.com/in/johnmartin,10195488147,500+,$100K-$1M,Call,58,High,AEST,30-06-2025,Evening
+143,Liam Jones,CIO,DataSphere Ltd,Ecommerce,London,17bau070@gmail.com,https://linkedin.com/in/liamjones,14697504213,51-200,$50M-$100M,Call,90,High,CET,24-10-2025,Afternoon
+144,Oliver Rodriguez,VP Engineering,DataSphere Ltd,Ecommerce,Berlin,17bau070@gmail.com,https://linkedin.com/in/oliverrodriguez,16640990034,201-500,$100K-$1M,LinkedIn,78,Medium,AEST,04-09-2025,Evening
+145,James Garcia,Head of IoT,CloudCore Corp,Robotics,Singapore,17bau070@gmail.com,https://linkedin.com/in/jamesgarcia,11925362440,01-Oct,$50M-$100M,LinkedIn,78,Low,GMT,28-07-2025,Afternoon
+146,Amelia Lopez,CEO,TechNova Solutions,Robotics,Dubai,17bau070@gmail.com,https://linkedin.com/in/amelialopez,17161676948,51-200,$100K-$1M,LinkedIn,94,High,SGT,24-12-2025,Evening
+147,Liam Jones,CTO,InnoWave Corp,EdTech,Sydney,17bau070@gmail.com,https://linkedin.com/in/liamjones,19372107998,201-500,$100K-$1M,Call,100,Medium,GMT,23-08-2025,Morning
+148,Oliver Martinez,Director,BrightAI Ltd,IoT,Berlin,17bau070@gmail.com,https://linkedin.com/in/olivermartinez,14513897508,201-500,$100M+,Call,57,Medium,SGT,04-09-2025,Afternoon
+149,Amelia Wilson,Director,VisionTech Solutions,Cloud,Berlin,17bau070@gmail.com,https://linkedin.com/in/ameliawilson,18833596245,500+,$50M-$100M,LinkedIn,87,Low,AEST,18-08-2025,Morning
+150,Evelyn Garcia,CIO,BrightAI Solutions,Fintech,New York,17bau070@gmail.com,https://linkedin.com/in/evelyngarcia,13193459130,500+,$50M-$100M,Email,51,High,SGT,12-04-2025,Morning
+151,Benjamin Jackson,VP Engineering,InnoWave Solutions,Robotics,New York,17bau070@gmail.com,https://linkedin.com/in/benjaminjackson,13641457015,500+,$10M-$50M,LinkedIn,72,High,CET,20-08-2025,Morning
+152,Evelyn Martinez,VP Engineering,NextGen Systems Corp,EdTech,Sydney,17bau070@gmail.com,https://linkedin.com/in/evelynmartinez,19007496292,500+,$50M-$100M,Call,79,Medium,SGT,18-06-2025,Afternoon
+153,William Miller,CTO,SmartEdge Ltd,Fintech,Dubai,17bau070@gmail.com,https://linkedin.com/in/williammiller,16481713194,51-200,$10M-$50M,Call,85,High,IST,08-06-2025,Evening
+154,James Davis,Founder,CloudCore Solutions,SaaS,Singapore,17bau070@gmail.com,https://linkedin.com/in/jamesdavis,15390032812,201-500,$1M-$10M,LinkedIn,80,Low,AEST,17-02-2025,Afternoon
+155,Amelia Davis,Product Manager,FutureSoft Solutions,Fintech,Singapore,17bau070@gmail.com,https://linkedin.com/in/ameliadavis,18720399494,Nov-50,$100M+,Email,57,Low,EST,20-03-2025,Evening
+156,Liam Smith,Product Manager,FutureSoft Solutions,Cloud,Sydney,17bau070@gmail.com,https://linkedin.com/in/liamsmith,17015076014,201-500,$100M+,Email,90,High,SGT,29-03-2025,Afternoon
+157,Evelyn Johnson,Head of IoT,SmartEdge Solutions,Ecommerce,San Francisco,17bau070@gmail.com,https://linkedin.com/in/evelynjohnson,17125333133,51-200,$1M-$10M,Email,71,Medium,GMT,04-04-2025,Afternoon
+158,Mason Thomas,Founder,CloudCore Ltd,Cloud,New York,17bau070@gmail.com,https://linkedin.com/in/masonthomas,19262211269,01-Oct,$1M-$10M,LinkedIn,79,Medium,PST,31-03-2025,Afternoon
+159,Harper Martinez,Product Manager,NextGen Systems Corp,SaaS,New York,17bau070@gmail.com,https://linkedin.com/in/harpermartinez,13740412150,500+,$1M-$10M,Email,89,High,SGT,04-02-2026,Afternoon
+160,Benjamin Thomas,Director,NextGen Systems Solutions,Ecommerce,Bangalore,17bau070@gmail.com,https://linkedin.com/in/benjaminthomas,19947724184,201-500,$100K-$1M,LinkedIn,91,High,CET,22-12-2025,Morning
+161,Liam Lopez,Director,CloudCore Ltd,Cybersecurity,Dubai,17bau070@gmail.com,https://linkedin.com/in/liamlopez,11728407067,51-200,$1M-$10M,LinkedIn,86,High,SGT,05-09-2025,Evening
+162,Emma Moore,CEO,Nexlify Ltd,SaaS,Toronto,17bau070@gmail.com,https://linkedin.com/in/emmamoore,17279346125,51-200,$1M-$10M,LinkedIn,98,High,CET,27-10-2025,Evening
+163,Mason Lopez,CIO,BrightAI Ltd,Healthcare,Dubai,17bau070@gmail.com,https://linkedin.com/in/masonlopez,15861150721,500+,$50M-$100M,Call,78,Low,GMT,13-06-2025,Morning
+164,Benjamin Davis,CTO,TechNova Corp,IoT,Berlin,17bau070@gmail.com,https://linkedin.com/in/benjamindavis,14364389232,51-200,$100M+,LinkedIn,98,Medium,EST,02-10-2025,Evening
+165,Olivia Hernandez,Head of AI,CloudCore Corp,Healthcare,Sydney,17bau070@gmail.com,https://linkedin.com/in/oliviahernandez,11637738753,201-500,$100M+,Call,92,Medium,CET,26-11-2025,Afternoon
+166,Lucas Hernandez,Head of AI,VisionTech Inc,Fintech,Singapore,17bau070@gmail.com,https://linkedin.com/in/lucashernandez,11267308309,500+,$100K-$1M,LinkedIn,68,Low,EST,02-07-2025,Morning
+167,Elijah Thomas,Head of IoT,InnoWave Solutions,Ecommerce,Berlin,17bau070@gmail.com,https://linkedin.com/in/elijahthomas,15585993751,500+,$10M-$50M,Email,99,High,AEST,24-08-2025,Morning
+168,Benjamin Miller,Head of IoT,NextGen Systems Corp,Healthcare,Berlin,17bau070@gmail.com,https://linkedin.com/in/benjaminmiller,16449638328,51-200,$50M-$100M,Email,51,Medium,SGT,22-06-2025,Afternoon
+169,Mia Williams,VP Engineering,NextGen Systems Solutions,Cloud,London,17bau070@gmail.com,https://linkedin.com/in/miawilliams,11427031193,Nov-50,$100M+,LinkedIn,67,Low,SGT,10-11-2025,Morning
+170,Mason Thomas,CEO,BrightAI Ltd,Robotics,Sydney,17bau070@gmail.com,https://linkedin.com/in/masonthomas,18590869302,201-500,$1M-$10M,Email,99,Low,IST,20-12-2025,Evening
+171,Ava Taylor,Head of AI,BrightAI Solutions,Robotics,Amsterdam,17bau070@gmail.com,https://linkedin.com/in/avataylor,18864732739,500+,$100K-$1M,Call,70,Medium,SGT,10-12-2025,Morning
+172,Liam Jones,CEO,SmartEdge Corp,Fintech,London,17bau070@gmail.com,https://linkedin.com/in/liamjones,13382723381,01-Oct,$1M-$10M,Call,64,Low,AEST,28-08-2025,Evening
+173,Liam Anderson,Founder,Nexlify Solutions,SaaS,Berlin,17bau070@gmail.com,https://linkedin.com/in/liamanderson,12541421120,51-200,$1M-$10M,Call,52,High,CET,02-03-2025,Morning
+174,Oliver Jones,Head of AI,DataSphere Inc,AI,San Francisco,17bau070@gmail.com,https://linkedin.com/in/oliverjones,14598895587,201-500,$50M-$100M,LinkedIn,97,Low,IST,06-03-2025,Afternoon
+175,Mason Miller,CIO,DataSphere Corp,EdTech,San Francisco,17bau070@gmail.com,https://linkedin.com/in/masonmiller,11789644157,Nov-50,$50M-$100M,LinkedIn,60,Medium,EST,01-07-2025,Morning
+176,Benjamin Hernandez,Head of AI,FutureSoft Ltd,AI,Toronto,17bau070@gmail.com,https://linkedin.com/in/benjaminhernandez,10108766947,01-Oct,$50M-$100M,LinkedIn,70,Low,PST,12-08-2025,Evening
+177,Isabella Jones,CEO,FutureSoft Corp,Cloud,Toronto,17bau070@gmail.com,https://linkedin.com/in/isabellajones,15842846539,201-500,$100K-$1M,Call,99,Low,GMT,25-07-2025,Evening
+178,Oliver Johnson,Head of IoT,BrightAI Solutions,SaaS,Berlin,17bau070@gmail.com,https://linkedin.com/in/oliverjohnson,18716157155,51-200,$10M-$50M,Email,50,Low,AEST,22-05-2025,Evening
+179,John Gonzalez,VP Engineering,InnoWave Corp,AI,Amsterdam,17bau070@gmail.com,https://linkedin.com/in/johngonzalez,14108948070,51-200,$100M+,Email,99,High,EST,11-04-2025,Morning
+180,John Miller,CEO,DataSphere Solutions,Cloud,Berlin,17bau070@gmail.com,https://linkedin.com/in/johnmiller,14553867907,201-500,$50M-$100M,Call,62,Low,EST,27-06-2025,Morning
+181,Harper Smith,CTO,DataSphere Ltd,Fintech,London,17bau070@gmail.com,https://linkedin.com/in/harpersmith,10446870661,201-500,$10M-$50M,Email,88,Medium,PST,07-04-2025,Evening
+182,Sophia Gonzalez,CEO,TechNova Solutions,Ecommerce,Singapore,17bau070@gmail.com,https://linkedin.com/in/sophiagonzalez,12317386230,01-Oct,$1M-$10M,Call,69,High,SGT,04-05-2025,Afternoon
+183,Ava Martin,Head of IoT,NextGen Systems Solutions,Fintech,New York,17bau070@gmail.com,https://linkedin.com/in/avamartin,18241345205,201-500,$100M+,Email,86,High,AEST,11-08-2025,Evening
+184,Charlotte Williams,Head of AI,FutureSoft Inc,IoT,Dubai,17bau070@gmail.com,https://linkedin.com/in/charlottewilliams,12587117499,51-200,$10M-$50M,Email,94,High,PST,29-08-2025,Afternoon
+185,William Moore,CEO,BrightAI Corp,SaaS,Dubai,17bau070@gmail.com,https://linkedin.com/in/williammoore,15027760453,Nov-50,$10M-$50M,Call,97,Medium,GMT,15-09-2025,Afternoon
+186,Isabella Williams,Founder,NextGen Systems Ltd,IoT,Dubai,17bau070@gmail.com,https://linkedin.com/in/isabellawilliams,11615933972,201-500,$50M-$100M,Email,83,Medium,AEST,26-05-2025,Afternoon
+187,Evelyn Taylor,CTO,CloudCore Corp,Fintech,Berlin,17bau070@gmail.com,https://linkedin.com/in/evelyntaylor,17761932998,Nov-50,$50M-$100M,Email,53,Medium,EST,21-03-2025,Evening
+188,Charlotte Brown,CEO,DataSphere Inc,SaaS,Amsterdam,17bau070@gmail.com,https://linkedin.com/in/charlottebrown,18318356501,51-200,$100K-$1M,Email,99,High,EST,05-07-2025,Morning
+189,Benjamin Wilson,CIO,TechNova Solutions,Ecommerce,Amsterdam,17bau070@gmail.com,https://linkedin.com/in/benjaminwilson,11668466851,201-500,$1M-$10M,Email,50,Low,EST,06-09-2025,Afternoon
+190,Mason Davis,CEO,SmartEdge Ltd,Fintech,Singapore,17bau070@gmail.com,https://linkedin.com/in/masondavis,15262001260,500+,$50M-$100M,LinkedIn,95,Medium,SGT,15-05-2025,Afternoon
+191,Mia Anderson,CMO,CloudCore Inc,AI,London,17bau070@gmail.com,https://linkedin.com/in/miaanderson,12996476992,201-500,$1M-$10M,LinkedIn,78,High,IST,03-04-2025,Morning
+192,James Jones,Director,BrightAI Solutions,AI,Toronto,17bau070@gmail.com,https://linkedin.com/in/jamesjones,12661694933,01-Oct,$1M-$10M,LinkedIn,51,High,AEST,18-03-2025,Morning
+193,James Rodriguez,Head of IoT,NextGen Systems Ltd,Healthcare,Berlin,17bau070@gmail.com,https://linkedin.com/in/jamesrodriguez,12160862338,500+,$50M-$100M,LinkedIn,58,Low,GMT,04-09-2025,Afternoon
+194,Evelyn Jones,Head of IoT,NextGen Systems Solutions,Robotics,Singapore,17bau070@gmail.com,https://linkedin.com/in/evelynjones,17405558495,01-Oct,$1M-$10M,Email,66,Low,SGT,22-11-2025,Morning
+195,William Miller,VP Engineering,VisionTech Corp,Cybersecurity,Singapore,17bau070@gmail.com,https://linkedin.com/in/williammiller,11142708089,500+,$100M+,Call,98,Medium,SGT,05-10-2025,Evening
+196,Lucas Rodriguez,Head of IoT,Nexlify Corp,SaaS,Amsterdam,17bau070@gmail.com,https://linkedin.com/in/lucasrodriguez,11397771222,Nov-50,$10M-$50M,Call,78,Low,PST,14-12-2025,Morning
+197,Sophia Hernandez,Head of AI,NextGen Systems Inc,Ecommerce,Toronto,17bau070@gmail.com,https://linkedin.com/in/sophiahernandez,14239670037,51-200,$1M-$10M,Call,84,Medium,EST,22-12-2025,Evening
+198,Ava Jones,Head of IoT,SmartEdge Inc,SaaS,Amsterdam,17bau070@gmail.com,https://linkedin.com/in/avajones,16675064591,Nov-50,$100M+,LinkedIn,57,High,IST,06-04-2025,Evening
+199,Amelia Thomas,Director,FutureSoft Corp,Robotics,Toronto,17bau070@gmail.com,https://linkedin.com/in/ameliathomas,13926846252,201-500,$100K-$1M,LinkedIn,81,Low,GMT,02-01-2026,Morning
+200,Lucas Anderson,CIO,SmartEdge Inc,EdTech,New York,17bau070@gmail.com,https://linkedin.com/in/lucasanderson,17051127124,500+,$1M-$10M,LinkedIn,93,High,AEST,22-07-2025,Afternoon
+,,,,,,sophia.davis@smartedgesolutions.com,,,,,,,,,,
